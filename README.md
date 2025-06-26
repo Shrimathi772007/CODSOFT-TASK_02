@@ -13,7 +13,11 @@ This is a simple calculator application developed using Python.It allows users t
 📌 Features
 
 🧮 Basic Arithmetic Operations :Perform addition, subtraction, multiplication, and division.
+
 👤 User-Friendly Interface
+
 🔁 Repeat Calculations
+
 ❌ Error Handling ( division by zero)
+
 🔢 Input Validation 
